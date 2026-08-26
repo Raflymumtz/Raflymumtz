@@ -74,6 +74,23 @@ Peer-reviewed papers (2024), co-authored during undergraduate study at Universit
 | The Impact of Gamification Towards Repurchase Intention in E-Wallet Application | ICOMIT 2024 | Applied UX Research |
 | The Impact of Utilitarian and Hedonic Gratification in Gamification to Continued Use Intentions of an E-Wallet Mobile Application | ICOMIT 2024 | Applied UX Research |
 
+<!-- ================== CERTIFICATIONS ================= -->
+
+## Certifications & Training
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20for%20Junior%20Developer-Certified-blue?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-Certified-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/UX%20Design-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/TOEFL%20ITP-Certified-8A2BE2?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Understanding%20Business%20Process-Completed-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Understanding%20Data-Completed-2E8B57?style=for-the-badge" />
+</p>
+
 <!-- ==================== PHILOSOPHY ================== -->
 
 ## Engineering Philosophy
