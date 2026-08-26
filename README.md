@@ -39,14 +39,6 @@ Building bilingual (ID/EN), CMS-driven products with their own admin panels, Sup
   <img src="https://skillicons.dev/icons?i=ts,go,next,react,tailwind,nodejs,supabase,postgres,git,github,figma&theme=dark" alt="Languages and tools" />
 </p>
 
-<!-- ==================== GITHUB STATS ================== -->
-
-## GitHub Metrics
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Raflymumtz/Raflymumtz/output/github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
 ## Contribution Snake 🐍
 
 <picture>
