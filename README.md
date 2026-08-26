@@ -1,12 +1,4 @@
-<div align="center">
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Muhammad%20Rafly%20Mumtaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Applied%20ML%20%26%20Research&descAlignY=56&descSize=18"
-    width="100%"
-    alt="Muhammad Rafly Mumtaz"
-  />
-</p>
+![Muhammad Rafly Mumtaz](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Muhammad%20Rafly%20Mumtaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Applied%20ML%20%26amp%3B%20Research&descAlignY=56&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-stack+Engineer+%E2%80%94+Next.js+%2B+Supabase;Applied+ML+%26+Optimization+Research;Building+bilingual%2C+CMS-driven+platforms;10+Peer-reviewed+Papers+%40+ICITEE%2C+ICOMIT%2C+SIET%2C+ICTECA)](https://github.com/Raflymumtz)
 
