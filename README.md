@@ -41,19 +41,10 @@ Building bilingual (ID/EN), CMS-driven products with their own admin panels, Sup
 
 <!-- ==================== GITHUB STATS ================== -->
 
-## GitHub Stats
+## GitHub Metrics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raflymumtz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raflymumtz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Raflymumtz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raflymumtz&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/Raflymumtz/Raflymumtz/output/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ## Contribution Snake 🐍
@@ -82,14 +73,6 @@ Peer-reviewed papers (2024), co-authored during undergraduate study at Universit
 | Performance Analysis of Lossy Image Formats with Huffman Encoding Across Different Resolutions | SIET 2024 | Image Processing |
 | The Impact of Gamification Towards Repurchase Intention in E-Wallet Application | ICOMIT 2024 | Applied UX Research |
 | The Impact of Utilitarian and Hedonic Gratification in Gamification to Continued Use Intentions of an E-Wallet Mobile Application | ICOMIT 2024 | Applied UX Research |
-
-<!-- ==================== TROPHIES ================== -->
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raflymumtz&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
-</div>
 
 <!-- ==================== PHILOSOPHY ================== -->
 
